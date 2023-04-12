@@ -24,7 +24,7 @@
 /react-frontend/yarn-debug.log*
 /react-frontend/yarn-error.log*
 
-# express-backend
+# expressjs-backend
 
 # dependencies
 /expressjs-backend/node_modules
