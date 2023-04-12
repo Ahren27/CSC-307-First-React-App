@@ -27,23 +27,23 @@
 # express-backend
 
 # dependencies
-/express-backend/node_modules
-/express-backend/.pnp
-/express-backend/.pnp.js
+/expressjs-backend/node_modules
+/expressjs-backend/.pnp
+/expressjs-backend/.pnp.js
 
 # testing
-/express-backend/coverage
+/expressjs-backend/coverage
 
 # production
-/express-backend/build
+/expressjs-backend/build
 
 # misc
-/express-backend/.DS_Store
-/express-backend/.env.local
-/express-backend/.env.development.local
-/express-backend/.env.test.local
-/express-backend/.env.production.local
+/expressjs-backend/.DS_Store
+/expressjs-backend/.env.local
+/expressjs-backend/.env.development.local
+/expressjs-backend/.env.test.local
+/expressjs-backend/.env.production.local
 
-/express-backend/npm-debug.log*
-/express-backend/yarn-debug.log*
-/express-backend/yarn-error.log*
+/expressjs-backend/npm-debug.log*
+/expressjs-backend/yarn-debug.log*
+/expressjs-backend/yarn-error.log*
