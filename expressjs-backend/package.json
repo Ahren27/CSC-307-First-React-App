@@ -1,12 +1,14 @@
 {
   "name": "expressjs-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "CSC-307: Web Development Project",
   "main": "backend.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend.js",
+    "start": "node backend.js"
   },
-  "author": "",
+  "author": "Ahren Dosanjh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
